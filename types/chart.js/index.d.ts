@@ -488,6 +488,7 @@ declare namespace Chart {
         minRotation?: number;
         mirror?: boolean;
         padding?: number;
+        precision?: number;
         reverse?: boolean;
         showLabelBackdrop?: boolean;
         source?: 'auto' | 'data' | 'labels';
